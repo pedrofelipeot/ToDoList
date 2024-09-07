@@ -1,2 +1,2 @@
 # ToDoList
-Java e SpringBoot
+Uma lista de tarefas feita com Java e SpringBoot 
